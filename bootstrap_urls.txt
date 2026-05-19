@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "apiBaseUrl": "https://sink-better-count-yields.trycloudflare.com/",
+  "version": 14,
+  "apiBaseUrl": "http://127.0.0.1/",
   "fallbackApiBaseUrls": [
     "http://192.168.0.100:5189/"
   ],

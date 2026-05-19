@@ -1,8 +1,7 @@
 {
-  "version": 14,
-  "apiBaseUrl": "https://new-api.example.tj/",
+  "version": 12,
+  "apiBaseUrl": "https://new-api.example.com/",
   "fallbackApiBaseUrls": [
-    "https://backup-api.example.com/",
     "http://192.168.0.100:5189/"
   ],
   "expiresInSeconds": 300

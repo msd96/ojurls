@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "apiBaseUrl": "https://new-api.example.com/",
   "fallbackApiBaseUrls": [
     "https://backup-api.example.com/",

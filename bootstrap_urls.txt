@@ -1,8 +1,8 @@
 {
-  "version": 16,
-  "apiBaseUrl": "http://192.168.127.7/",
+  "version": 18,
+  "apiBaseUrl": "http://192.168.127.7:5189/",
   "fallbackApiBaseUrls": [
-    "http://192.168.0.100:5189/"
+    "http://192.168.127.7:5189/"
   ],
   "expiresInSeconds": 300
 }
